@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979312447999",
+    "project_id": "extreme-cycling-326914",
+    "storage_bucket": "extreme-cycling-326914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979312447999:android:869eee994d3e89c3ec97ca",
+        "android_client_info": {
+          "package_name": "com.example.project1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979312447999-d096jeslk66iduds5e643o6nu6dro61h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM4y_CWJ5PshKhLqePc6DOTreuII5Dla8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979312447999-d096jeslk66iduds5e643o6nu6dro61h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
