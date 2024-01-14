@@ -50,8 +50,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAM4y_CWJ5PshKhLqePc6DOTreuII5Dla8',
-    appId: '1:979312447999:android:869eee994d3e89c3ec97ca',
+    apiKey: 'API-KEY',
+    appId: 'API-ID',
     messagingSenderId: '979312447999',
     projectId: 'extreme-cycling-326914',
     storageBucket: 'extreme-cycling-326914.appspot.com',
