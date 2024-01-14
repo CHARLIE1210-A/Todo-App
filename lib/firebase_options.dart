@@ -58,8 +58,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCH5uiDdeVYHvZMXfjxGuWLL1uGIz30qjQ',
-    appId: '1:979312447999:ios:8dd0d7d46234fea2ec97ca',
+    apiKey: 'API-KEY',
+    appId: 'API-ID',
     messagingSenderId: '979312447999',
     projectId: 'extreme-cycling-326914',
     storageBucket: 'extreme-cycling-326914.appspot.com',
